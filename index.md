@@ -1,3 +1,3 @@
 # Welcome to Suzy's World!
 ![Happy thoughts](Screen Shot 2018-02-10 at 6.55.36 AM.png)
-<Suzy9586.github.io/bio.md>
+<Suzy9586.github.io/bio.html>
