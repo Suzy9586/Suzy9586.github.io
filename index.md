@@ -1,5 +1,5 @@
 # Welcome to Suzy's World!
-I hope you are all having a beautiful day.
+## Where we love rainbows, unicorns, and butterflies!
 ![Happy thoughts](Screen Shot 2018-02-10 at 6.55.36 AM.png)
 
 
