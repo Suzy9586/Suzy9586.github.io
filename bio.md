@@ -1,4 +1,8 @@
 # All about me!
+### Family
+  How big is your family? Mine, is huge! I'm the baby of 7 kids, plus now I also have 2 kids of my own and am married. I have been married for over 10 years now and I have to say my husband is pretty awesome! 
+
+
 ### Education
 I'm working on finishing my bacholors at University of [Maryland University College](http://umuc.edu). I have also attending the following schools.
 + [Mt. San Jacinto College](https://www.msjc.edu/Pages/default.aspx)
