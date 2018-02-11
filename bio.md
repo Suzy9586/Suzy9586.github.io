@@ -1,6 +1,7 @@
 # All about me!
 ### Family
-  How big is your family? Mine, is huge! I'm the baby of 7 kids, plus now I also have 2 kids of my own and am married. I have been married for over 10 years now and I have to say my husband is pretty awesome! 
+  How big is your family? Mine, is huge! I'm the baby of 7 kids, plus now I also have 2 kids of my own and am married. I have been married for over 10 years now and I have to say my husband is pretty awesome!Below is a picture of him with his new love of his life.
+  ![Husband](IMG_0904.JPG)
 
 
 ### Education
