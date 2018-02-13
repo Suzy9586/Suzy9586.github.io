@@ -2,6 +2,7 @@
 
 ![tablet](Screen Shot 2018-02-13 at 9.31.40 AM.png)
 ## Perosnal choice
+--------------------
   First lets get one thing straight, it is a personal chioce for what you prefer to use as a reading device. I really like reading off of a tablet for the following reasons.
   1. I don't have to go to the store to find a book
   2. e-books are cheaper than hard copy books
