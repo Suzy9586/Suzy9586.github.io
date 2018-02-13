@@ -6,7 +6,7 @@
   1. I don't have to go to the store to find a book
   2. e-books are cheaper then hard copy books
   3. You get recommendations as soon as you load the book store of your chioce
-  4. You can sign up for monthly memberships to have books at even a lower cost such as ![Amazon Unlimited](https://www.amazon.com/Browse-Kindle-Unlimited-Books/b?ie=UTF8&node=9069934011)
+  4. You can sign up for monthly memberships to have books at even a lower cost such as ![Amazon Unlimited](https://www.amazon.com)
   5. You don't have to store the hard copy books, they can take up a lot of room!
   
   ## However you perfer to read your books just make sure you read them!
