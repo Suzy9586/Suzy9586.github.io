@@ -10,7 +10,7 @@
   5. You don't have to store the hard copy books, they can take up a lot of room!
   
   
-  ## However you perfer to read your books just make sure you read them!
+ ## However you perfer to read your books just make sure you read them!
   
   ![books](Screen Shot 2018-02-13 at 10.19.02 AM.png)
 
