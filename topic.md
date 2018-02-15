@@ -10,7 +10,6 @@
   4. You can sign up for monthly memberships to have books at even a lower cost such as [Amazon](https://www.amazon.com)
   5. You don't have to store the hard copy books, they can take up a lot of room!    
   
-## However you perfer to read your books just make sure you read them!
  
 ## However you perfer to read your books just make sure you read them!
   
